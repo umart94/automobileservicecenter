@@ -1,0 +1,8 @@
+2017-07-08 17:59:43.652 [main] INFO  automobileservice.MainClass_AutomobileService - info Message Logged !!!
+2017-07-08 17:59:43.652 [main] ERROR automobileservice.MainClass_AutomobileService - error Message Logged !!!
+2017-07-08 17:59:43.652 [main] FATAL automobileservice.MainClass_AutomobileService - fatal Message Logged !!!
+2017-07-08 18:04:47.573 [main] INFO  automobileservice.MainClass_AutomobileService - About to start UI
+2017-07-08 18:04:47.947 [main] INFO  automobileservice.MainClass_AutomobileService - Inside Login Form Construtctor
+2017-07-08 18:04:49.494 [AWT-EventQueue-0] INFO  automobileservice.MainClass_AutomobileService - Abvout to call controller class object
+2017-07-20 18:46:06.840 [main] INFO  automobileservice.MainClass_AutomobileService - About to start UI
+2017-07-20 18:46:07.151 [AWT-EventQueue-0] INFO  automobileservice.MainClass_AutomobileService - Inside Login Form Construtctor
